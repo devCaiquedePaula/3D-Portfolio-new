@@ -12,7 +12,7 @@ The Online Car Rental Platform is powered by WordPress, a widely recognized cont
 
 Exceptional interface customization was achieved through Elementor, a visual page builder for WordPress. With Elementor, we created engaging layouts, incorporated interactive elements, and ensured an immersive user experience.
 
-3. Advanced Search with Elementor Pro: Refine Your Choice
+3. Advanced Search with Elementor: Refine Your Choice
 
 The advanced search functionality, allowing users to refine their results, was implemented using advanced features of Elementor Pro. This provides a more personalized search experience, catering to diverse user preferences.
 
