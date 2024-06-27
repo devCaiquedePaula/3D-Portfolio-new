@@ -47,9 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        My journey as a programming enthusiast is a relentless pursuit of excellence in building interfaces, strategically consuming APIs, and manipulating data on the back-end. I am passionate about unraveling the challenges that arise at the intersection of the world of technology and the demand for innovative solutions.
-        With more than 2 years of dedication to FullStack Development, I have delved deeply into the complexities of front-end and back-end technologies. This experience allows me to create holistic, integrated solutions that meet not only immediate needs, but also companies long-term goals.
-        Furthermore, my skills in languages such as Python and Java further expand my range of skills, allowing me to move easily across different development environments. I am driven by the desire to innovate and find effective solutions to constantly evolving technological challenges
+        📊 As an experienced Fullstack Software Engineer, with over 3 years of experience, my expertise spans TypeScript, JavaScript, React, Java, and Python. I stand out for creating innovative solutions, such as a robust authentication microservice in Python (Django), PostgreSQL, and Redis, significantly increasing operational efficiency. I reduced query response times by 40% and improved overall system efficiency by 25%. My goal is to continue enhancing my skills, especially in frontend technologies like React, to deliver even more impactful and efficient solutions.
+        <br></br><br></br>
+        🔎 My journey in software engineering is marked by an insatiable passion for creating exceptional digital experiences. With a background in Computer Science and a specialization in Software Engineering and Object-Oriented Programming from the prestigious universities of Harvard and Helsinki, I aim to apply my expertise to develop innovative and impactful solutions.
+        <br></br><br></br>
+        📖 My collaborative approach and adept communication skills have been instrumental in fostering productive team environments where innovation flourishes.
+        <br></br><br></br>
+        💡 Committed to continuous learning, I stay updated on the latest industry trends and technologies through online courses, workshops, and conferences. Recently, I completed a certification in advanced React development, further enhancing my expertise in frontend technologies and design patterns.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
